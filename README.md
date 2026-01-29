@@ -1,6 +1,6 @@
 # KodeMaster AI Challenges
 
-![KodeMaster AI](resources/icon.png)
+![KodeMaster AI](resources/kodemaster-logo.png)
 
 ## Transform Your Coding Skills with Real-World Challenges
 
